@@ -1,0 +1,28 @@
+.DiaryEdit {
+  text-align: center;
+}
+
+.DiaryEdit__input input {
+  width: 300px;
+  padding: 6px;
+  margin: 30px;
+}
+
+.DiaryEdit__input textarea {
+  width: 350px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+.DiaryEdit__emotion {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.DiaryEdit__submit {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px black solid;
+  padding-bottom: 50px;
+}
